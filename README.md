@@ -22,7 +22,7 @@
 <br>
 
 <div align="center">
-  <a href = "mailto: anacarolinamb2@gmail.com"><img width="90" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank" alt="Gmail link"></a>
+  <a href = "mailto:anacarolinamb2@gmail.com"><img width="90" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank" alt="Gmail link"></a>
   <a href="https://www.linkedin.com/in/ana-carolina-souto-miranda-414859224/" target="_blank"><img width="114" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="Gmail link"></a>
 </div>
 
