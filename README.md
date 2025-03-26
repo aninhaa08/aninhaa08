@@ -5,7 +5,7 @@
 <br>
 
 - 📙 Developer in training!
-- 🌱 Currently learning JavaScript, ReactJS and React Native
+- 🌱 Currently learning JavaScript, ReactJS and NodeJS
 
 
 <div style="display: inline_block"><br>
