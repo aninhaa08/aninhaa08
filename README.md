@@ -31,7 +31,7 @@
 
 <div align="center">  
   <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=aninhaa08&show_icons=true&count_private=true&hide_border=false&border_color=606060&title_color=2F9D96&icon_color=664147&text_color=606060&bg_color=000000" alt="Ana Carolina Miranda github stats" /> 
-  <img width="43%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aninhaa08&layout=compact&hide_border=false&border_color=606060&title_color=2F9D96&text_color=606060&bg_color=000000" />
+  <img width="43%" height="185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aninhaa08&layout=compact&hide_border=false&border_color=606060&title_color=2F9D96&text_color=606060&bg_color=000000" />
 </div>
 
 <br>
